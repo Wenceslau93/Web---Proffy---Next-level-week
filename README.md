@@ -1,8 +1,12 @@
 <html>
 <body>
  
-Projeto de um site de estudos. </br>
-Full stack com  HTML, CSS, javascript e QLite.
+<br/>
+ 
+Projeto realizado de um desenvolvimento de site de estudos. </br>
+Realizado em Full stack com  HTML, CSS, javascript e SQLite.
+ 
+ <br/>
  
  <center>
  

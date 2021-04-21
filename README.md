@@ -21,7 +21,7 @@ Realizado em Full stack com  HTML, CSS, javascript e SQLite.
 **Cadastro do professor**</br>
 <p align="center"><img src="https://github.com/Wenceslau93/Web_Proffy_Next-level-week/blob/main/prof.PNG?raw=true" alt="sometext2"></p> </br></br>
   
-**Pesquisa do aluno**/br>
+**Pesquisa do professor**</br>
 <p align="center"><img src="https://github.com/Wenceslau93/Web_Proffy_Next-level-week/blob/main/estudante.PNG?raw=true" alt="sometext2"></p> </br></br>
  
  
